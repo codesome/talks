@@ -1,7 +1,7 @@
 # talks
-List of talk that I have given or will be giving in future.
+List of talk that I have given and will be giving in future.
 
-I will be adding links to the slides and videos soon.
+Links to the videos will be added as and when they become available.
 
 ### 2019
 
@@ -9,15 +9,17 @@ I will be adding links to the slides and videos soon.
 
 | Sl No | Title | Place | Date |
 |:-:|:-:|:-:|:-:|
-| 2 | [Grafana Loki: like Prometheus, but for logs](https://osmc.de/talks/en-grafana-loki-like-prometheus-but-for-logs/) | OSMC 2019, Nuremberg | 2019-10-05 |
-| 3 | [TSDB: 1 year in](https://promcon.io/2019-munich/talks/tsdb-1-year-in/) | PromCon 2019, Munich | 2019-11-08 |
-| 4 | [Intro: Prometheus](https://kccncna19.sched.com/event/Uajs/intro-prometheus-matt-layher-fastly-ganesh-vernekar-grafana-labs) | KubeCon NA 2019, San Diego | 2019-11-20 |
 
 **Given**
 
-| Sl No | Title | Place | Date |
-|:-:|:-:|:-:|:-:|
-| 1 | TSDB: 1 year in | Prometheus meetup, Stockholm | 2019-08-28 |
+### 2019
+
+| Sl No | Title | Place | Date | Resources |
+|:-:|:-:|:-:|:-:|:-:|
+| 4 | Intro: Prometheus | KubeCon NA 2019, San Diego | 2019-11-20 | [Slides](https://docs.google.com/presentation/d/1aKIPQ-Ix4Tg9FhLioxmpi2iArHcqyeVJhSQ5rZViYWA/edit?usp=sharing) / [Video](https://www.youtube.com/watch?v=mC6Zt5Ga9UQ) |
+| 3 | TSDB: 1 year in | PromCon 2019, Munich | 2019-11-08 | [Slides](https://docs.google.com/presentation/d/1q7wpZEeOSPXIkkt4LIvQdSgZC5Q3psLsv6Wo36TRZ20/edit?usp=sharing) |
+| 2 | Grafana Loki: like Prometheus, but for logs | OSMC 2019, Nuremberg | 2019-10-05 | [Slides](https://docs.google.com/presentation/d/15SSCngyfAwQZJ-T2NdW8bwXneRKvZd9KyUvWF8MLFjQ/edit?usp=sharing) / [Video](https://www.youtube.com/watch?v=flCIK_R7Jh4) |
+| 1 | TSDB: 1 year in | Prometheus meetup, Stockholm | 2019-08-28 | [Slides](https://docs.google.com/presentation/d/1WJWSRbtLmaP76B_bo9hTN_1c6Crn3a1Q0-2pxiS-MRg/edit?usp=sharing) |
 
 ### 2018
 
