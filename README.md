@@ -9,9 +9,15 @@ Links to the videos will be added as and when they become available.
 
 | Sl No | Title | Place | Date |
 |:-:|:-:|:-:|:-:|
-| 1 | [Make Prometheus Use Less Memory and Restart Faster](https://kccnceu20.sched.com/event/Zeih/make-prometheus-use-less-memory-and-restart-faster-ganesh-vernekar-grafana-labs) | KubeCon EU 2020, Amsterdam | 2020-03-31 |
+| 2 | [Make Prometheus Use Less Memory and Restart Faster](https://kccnceu20.sched.com/event/Zeih/make-prometheus-use-less-memory-and-restart-faster-ganesh-vernekar-grafana-labs) | KubeCon EU 2020, Amsterdam | 2020-03-31 |
 
 **Given**
+
+### 2020
+
+| Sl No | Title | Place | Date | Resources |
+|:-:|:-:|:-:|:-:|:-:|
+| 1 | Intro to Cortex | CNCF Hyderabad January meetup | 2020-01-11 |  |
 
 ### 2019
 
