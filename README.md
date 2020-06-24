@@ -9,7 +9,8 @@ Links to the videos will be added as and when they become available.
 
 | Sl No | Title | Place | Date |
 |:-:|:-:|:-:|:-:|
-| 2 | [Make Prometheus Use Less Memory and Restart Faster](https://kccnceu20.sched.com/event/Zeih/make-prometheus-use-less-memory-and-restart-faster-ganesh-vernekar-grafana-labs) | KubeCon EU 2020, Amsterdam | 2020-03-31 |
+| 2 | TSDB: Another year in | PromCon NA 2020 (Virtual) | 2020-07-16/17 |
+| 3 | [Make Prometheus Use Less Memory and Restart Faster](https://kccnceu20.sched.com/event/Zeih/make-prometheus-use-less-memory-and-restart-faster-ganesh-vernekar-grafana-labs) | KubeCon EU 2020 (Virtual) | 2020-08-20 |
 
 **Given**
 
